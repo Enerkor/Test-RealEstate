@@ -112,4 +112,13 @@
   .stat > :nth-child(2) {
     font-size: 0.8rem;
   }
+
+  .hero-des .secondaryText {
+    font-size: 0.7rem;
+  }
+
+  .search-bar {
+    flex-wrap: nowrap;
+    padding: 0.4rem 0.4rem;
+  }
 }
